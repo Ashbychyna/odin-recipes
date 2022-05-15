@@ -1,1 +1,2 @@
-# odin-recipes
+This is the first major assignment/project from TOP (The Odin Project). I will be utilizing all of the information I have learned from TOP, so far, to create a website that provides recipes.
+- HTML (headings, paragraphs, unordered/ordered lists images, and an index page)
