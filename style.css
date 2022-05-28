@@ -1,0 +1,37 @@
+
+.index-h1 {
+    color: blueviolet;
+    font-family: Koulen;
+    font-size: 80px;
+    }
+
+body.index, body.chicken-teriyaki, body.three-cheese-lasagna, body.strawberry-cheese-pie {
+    background-color: #1D2731;
+    text-align: center; /*Centers both lists and headers */
+    font-family: 'Amatic SC';
+    font-size: 35px;
+    }
+
+.index-entrees-names, .index-dessert-names {
+    list-style-type: none; /*Removes bullet points */
+    padding: 0;
+    margin: 0;
+    position: relative; top: 140px; /* Pushes downward on page */
+    font-size: 40px;
+}
+.index-entrees, .index-desserts{
+
+    position: relative; top: 140px; /* Pushes headers downward on page */
+    }
+
+.chicken-teriyaki-h1, .three-cheese-lasagna-h1, .strawberry-cheese-pie-h1 {
+        color: blueviolet;
+        font-size: 70px;
+        font-family: 'Shadows Into Light';
+        text-align: center;
+    }
+
+
+.chicken-teriyaki-ingredients, .three-cheese-lasagna-ingredients, .strawberry-cheese-pie-ingredients {
+    list-style-type: none;
+}
